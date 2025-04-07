@@ -15,3 +15,9 @@
 | [To-Do List](https://github.com/tu-usuario/todo-list) | Lista de tareas con almacenamiento local | HTML, JS |
 
 ![Vista previa](https://github.com/tu-usuario/todo-list/blob/main/preview.png)
+
+## 📫 Contacto
+
+- ✉️ Email: tuemail@ejemplo.com  
+- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
+
