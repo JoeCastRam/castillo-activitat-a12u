@@ -30,3 +30,5 @@
 > “La programación no es solo escribir código, es resolver problemas y contar historias con lógica.”  
 
 Soy una persona autodidacta, creativa y constante. Me gusta trabajar en equipo y compartir lo que aprendo con los demás. Aquí encontrarás mis experimentos, proyectos y colaboraciones.
+
+
