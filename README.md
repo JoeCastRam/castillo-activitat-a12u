@@ -21,3 +21,6 @@
 - ✉️ Email: tuemail@ejemplo.com  
 - 💼 [LinkedIn](https://linkedin.com/in/tuusuario)
 
+## 📷 Vista previa de un proyecto
+
+![Vista previa del To-Do List](https://github.com/joel/todo-list/blob/main/preview.png)
