@@ -31,4 +31,20 @@
 
 Soy una persona autodidacta, creativa y constante. Me gusta trabajar en equipo y compartir lo que aprendo con los demás. Aquí encontrarás mis experimentos, proyectos y colaboraciones.
 
+## 📌 En desarrollo
 
+- [x] Crear repositorio  
+- [x] Añadir `README.md`  
+- [x] Subir imagen del proyecto  
+- [ ] Añadir documentación a cada proyecto  
+- [ ] Subir demo en GitHub Pages  
+
+---
+
+## 💻 Fragmento de código
+
+```javascript
+function saludar(nombre) {
+  console.log(`¡Hola, ${nombre}!`);
+}
+saludar("Joel");
